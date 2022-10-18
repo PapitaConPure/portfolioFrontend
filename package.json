@@ -1,0 +1,22 @@
+{
+  "name": "portfoliofrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitaConPure/portfolioFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitaConPure/portfolioFrontend/issues"
+  },
+  "homepage": "https://github.com/PapitaConPure/portfolioFrontend#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
